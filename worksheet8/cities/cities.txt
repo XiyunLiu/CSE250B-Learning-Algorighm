@@ -1,0 +1,10 @@
+Atlanta
+Boston
+Mystery
+Denver
+Houston
+Miami
+New York
+San Diego
+San Francisco
+Seattle
